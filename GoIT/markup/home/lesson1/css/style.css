@@ -2,12 +2,19 @@ body{
     width: 1235px;
     height: 861px;
 }
+.line{
+    border-top: solid;
+    padding-top: 10px;
+}
 div{
     margin-left: 298px;
     margin-top: 35px;
     width: 514px;
     height: 753px;
     box-shadow: 12px 0px 50px 0px #000000;}
+#border{
+    border-style: solid;
+}
 p   {
     margin: 10px;
     font-family: Arial;
