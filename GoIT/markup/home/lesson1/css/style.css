@@ -1,27 +1,26 @@
-body{
-    width: 1235px;
-    height: 861px;
-}
 .line{
-    border-top: solid;
-    padding-top: 10px;
+    border-top: 1px solid black;
+ 	padding-left: 15px;
+ 	margin-bottom: 15px;
 }
 div{
-    margin-left: 298px;
+    margin-left: 30%;
+    margin-right: 30%;
     margin-top: 35px;
-    width: 514px;
-    height: 753px;
-    box-shadow: 12px 0px 50px 0px #000000;}
-#border{
-    border-style: solid;
-}
-p   {
-    margin: 10px;
-    font-family: Arial;
+    margin-bottom:auto;
+    box-shadow: 1px 1px 2px 2px #cccccc;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
     }
-h1{
+p   {
+    text-align:left;
+    fo
+    }
+h1  {
     text-align: center;
-}
+    }
 figure{
     text-align: center;
-}
+    }
+    
