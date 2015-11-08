@@ -2,20 +2,15 @@
     border-top: 1px solid black;
  	padding-left: 15px;
  	margin-bottom: 15px;
+    border-bottom: 0;
 }
-div{
-    margin-left: 30%;
-    margin-right: 30%;
-    margin-top: 35px;
-    margin-bottom:auto;
+.block{
+    margin: 0 30% 5%;
     box-shadow: 1px 1px 2px 2px #cccccc;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
+    padding: 0 30px 30px 30px;
     }
 p   {
     text-align:left;
-    fo
     }
 h1  {
     text-align: center;
