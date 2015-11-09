@@ -5,7 +5,8 @@
     border-bottom: 0;
 }
 .block{
-    margin: 0 30% 5%;
+    margin: 0 auto;
+    width: 470px;
     box-shadow: 1px 1px 2px 2px #cccccc;
     padding: 0 30px 30px 30px;
     }
